@@ -39,6 +39,7 @@ Retrieval-Augmented Generation (RAG) based PDF question-answering system that al
 
 📝 BlogApp
 Full-stack MERN blog application supporting create, read, update, and delete (CRUD) operations with user-friendly content management features.
+
 ---
 
  🛠️ Tech Stack
