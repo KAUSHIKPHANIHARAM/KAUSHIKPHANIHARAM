@@ -25,7 +25,7 @@ I'm passionate about building scalable applications, solving real-world problems
 ---
  📌 Featured Projects
 
-🩺 Diabetic Retinopathy Detection
+👁️ Diabetic Retinopathy Detection
 Deep learning-based system for automated diabetic retinopathy detection and severity grading using retinal images. Implemented ensemble learning techniques and advanced image preprocessing for improved performance.
 
  🏠 DormQuest
