@@ -11,8 +11,8 @@ I'm passionate about building scalable applications, solving real-world problems
 * 💻 Strong interest in Software Development, Full-Stack Development, and Backend Engineering
 * 🤖 Exploring Artificial Intelligence, Agentic AI, Automation, and Data-Driven Solutions
 * 📊 Interested in Data Analysis and extracting meaningful insights from data
-* 🧩 Enjoy solving problems through coding, algorithms, and system design
-* 🌱 Continuously learning new technologies and industry best practices
+* 🧩 Possess strong problem-solving skills and am a collaborative, adaptable team player who is always ready to learn and contribute
+* 🌱 Always eager to learn new technologies and continuously improve my skills
 
 ---
 
