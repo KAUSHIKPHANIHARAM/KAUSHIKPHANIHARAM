@@ -1,4 +1,4 @@
-Hi 👋, I'm Ram Kaushik
+Hi 👋, I'm Phaniharam Venkata Ram Kaushik
 
 🚀 Aspiring Software Development Engineer | Full-Stack Developer | AI/ML Enthusiast | Automation
 
